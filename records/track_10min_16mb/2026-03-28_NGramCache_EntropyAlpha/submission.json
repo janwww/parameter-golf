@@ -1,0 +1,5 @@
+{
+  "name": "N-gram Cache + Entropy-Adaptive Alpha (Engram-inspired)",
+  "val_bpb": null,
+  "notes": "Pending 8xH100 run. Adds backward-looking n-gram cache to eval-time score-first TTT. All variants parameterized via env vars."
+}
